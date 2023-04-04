@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">pil-mobile-basics</string>
+    <string name="txtValue">Ingrese el valor a incrementar</string>
+    <string name="btnInc">Incrementar</string>
+    <string name="btnDec">Decrementar</string>
+    <string name="btnReset">Resetear</string>
 </resources>
